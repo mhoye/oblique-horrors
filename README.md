@@ -1,4 +1,4 @@
-# oblique-horrors
+# Oblique Horrors
 
 Oblique strategies for horror stories. First proposed by Mike Hoye (mhoye@bespokeio.com), 2023.
 
