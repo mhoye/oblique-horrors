@@ -32,3 +32,7 @@ Can it be absorbed?
 Imply a method.
 
 Make a decision about teeth.
+
+Will an AI misinterpret this?
+
+Count the fingers.
