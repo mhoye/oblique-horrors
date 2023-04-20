@@ -6,7 +6,7 @@ Browsing the (wonderful) itch.io, I wondered if there's an Oblique Strategies de
 
 Oblique Strategies - subtitled "Over One Hundred Worthwhile Dilemmas" - is a card-based method for spurring creativity inquiry and and getting around creative block created by Brian Eno and Peter Schmidt, and was first published in 1975. 
 
-If you'd like to suggest additions, contributions are welcome. The full list is in this respository, in the file named OBLIQUE-HORRORS.md 
+If you'd like to suggest additions, contributions are welcome. The full list is in this respository, in the file named "oblique-horrors.md"
 
 You can get a feed of the real Oblique Strategies in your Mastodon feed here.
 - https://mastodon.social/@oblique_strategies@botsin.space
