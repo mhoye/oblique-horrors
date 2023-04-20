@@ -31,4 +31,6 @@ Can it be absorbed?
 
 Imply a method.
 
+Enumerate fingers.
+
 Make a decision about teeth.
