@@ -33,4 +33,16 @@ Imply a method.
 
 Enumerate fingers.
 
+Empathy, or synethesia?
+
+Annealing, rather than healing.
+
+Revisit the articulations.
+
+Falsify an absolute.
+
+Make it prehensile.
+
+Could it ooze?
+
 Make a decision about teeth.
