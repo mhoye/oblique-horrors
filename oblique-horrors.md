@@ -45,4 +45,10 @@ Make it prehensile.
 
 Could it ooze?
 
+Expand the negative space.
+
+How malleable is malleable?
+
+Express it as geometry.
+
 Make a decision about teeth.
