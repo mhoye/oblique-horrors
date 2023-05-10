@@ -49,6 +49,8 @@ Expand the negative space.
 
 How malleable is malleable?
 
+Texture, or agency?
+
 Express it as geometry.
 
 Make a decision about teeth.
