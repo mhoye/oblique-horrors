@@ -53,4 +53,12 @@ Texture, or agency?
 
 Express it as geometry.
 
+Choose scale.
+
+Has it decayed?
+
+What is it at second glance?
+
 Make a decision about teeth.
+
+
