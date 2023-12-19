@@ -33,7 +33,7 @@ Imply a method.
 
 Enumerate fingers.
 
-Empathy, or synethesia?
+Empathy or synesthesia?
 
 Annealing, rather than healing.
 
@@ -61,4 +61,14 @@ What is it at second glance?
 
 Make a decision about teeth.
 
+Adjust the opacity.
 
+Swap mechanical and organic.
+
+Expose the organs.
+
+Is the environment complicit?
+
+Tell the story with stains.
+
+Choose the entrails.
