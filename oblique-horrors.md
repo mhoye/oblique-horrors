@@ -72,3 +72,13 @@ Is the environment complicit?
 Tell the story with stains.
 
 Choose the entrails.
+
+Growth, slowly.
+
+Numbers can tell stories.
+
+Watching vs. seeing.
+
+Motion can be emphasis.
+
+Implications like knives.
